@@ -13,3 +13,7 @@
 
 # Results output
 *.out
+
+*.cpp~
+.gitignore~
+.gitignore
